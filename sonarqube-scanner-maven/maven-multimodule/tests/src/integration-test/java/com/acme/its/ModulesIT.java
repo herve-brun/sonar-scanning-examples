@@ -4,7 +4,7 @@ import com.acme.module1.Module1;
 import com.acme.module2.Module2;
 import org.junit.Test;
 
-public class ModulesTest {
+public class ModulesIT {
 
   @Test
   public void integrationTest1() {
